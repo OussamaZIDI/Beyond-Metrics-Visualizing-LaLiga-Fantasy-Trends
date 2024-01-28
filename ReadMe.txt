@@ -1,5 +1,14 @@
-1) Unzip the folder
+1) Download ZIP folder
 
-2) Run generateDashboards.py
+2) Unzip it
 
-3) Check your new generated Dashboards: "Your Name/Dashboards
+3) Run generateDashboards.py
+
+4) Check your new generated Dashboards: "Your Name/Dashboards
+
+
+
+
+!!!!!!!!!!!!!! Attenion !!!!!!!!!!!! 
+
+in case you didn't succed in logging in please try again with the correct email and password.
