@@ -1,2 +1,33 @@
-*) Mind that the login details are made with no much security.
+=========================
+Project Limitations - Notes
+=========================
 
+1. **Data Source Dependency:**
+   The project relies on the availability and stability of the LaLiga Fantasy Marca data source. Any changes to the source structure or interruptions in data availability may impact the functionality of the dashboard.
+
+2. **Data Retrieval Frequency:**
+   The project fetches data at regular intervals. Delays or discrepancies in data updates from the LaLiga Fantasy Marca platform may result in outdated information being displayed on the dashboard.
+
+3. **Security Constraints:**
+   The project operates within the constraints of LaLiga Fantasy Marca's terms of service and security policies. Any changes or restrictions imposed by the platform may affect the project's ability to gather data.
+
+4. **Third-Party Dependencies:**
+   The project may be affected by changes in third-party libraries or tools used for data collection, processing, or visualization. Compatibility issues or changes in external dependencies may require updates to the project.
+
+5. **Limited Historical Data:**
+   The dashboard primarily focuses on current and recent data. Historical data beyond a certain timeframe may not be available or may have limited granularity.
+
+6. **User Authentication:**
+   The project does not currently support user authentication within the dashboard. All users have access to the same set of data and functionalities.
+
+7. **Browser Compatibility:**
+   The dashboard has been tested on major browsers, but variations in browser behavior may exist. Users are encouraged to use the latest versions of popular browsers for the best experience.
+
+8. **Mobile Responsiveness:**
+   While efforts have been made for responsiveness, the dashboard may have limitations on certain mobile devices. It is recommended to use the dashboard on desktop or tablet devices for optimal performance.
+
+9. **Limited Customization:**
+   Customization options within the dashboard are limited. Users may have restrictions on modifying the layout or appearance of the charts and graphs.
+
+10. **Market Update Timing:**
+    The availability and timing of updates related to the player market are subject to the LaLiga Fantasy Marca platform. Users should be aware that market conditions may change outside of the project's update intervals.
